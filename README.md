@@ -82,5 +82,4 @@ JWT_EXPIRE_TIME=
 
 ## 5. open cmd and write this command "npm i" the "npm run start:dev"
 
-******hint payment only production mode after deployment******
 
