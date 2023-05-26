@@ -34,7 +34,7 @@ The dashboard displays upcoming appointments in a clear and organized manner.
 Doctors can view patient details, appointment timings, and appointment types (video or clinic).
 Doctors have the ability to update or cancel appointments as needed.
 
-## 3. Doctor Search and Reservation for Patients
+## 3. Patients Search and Reservation at doctor
 
 Patients can search for doctors based on specialization, location, or name.
 The application provides a database of registered doctors for easy access.
